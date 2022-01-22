@@ -9,3 +9,5 @@ It has a sign-in page, a home page, a summary page and then finally a check out/
 It has all basic functionalities for each page. For eg: HomePage has a search bar, showcases product cards, has a carousel, internal linking to move to top from bottom etc.
 
 It was made using HTML, CSS and JS.
+
+Index.html is the main page of this project.
